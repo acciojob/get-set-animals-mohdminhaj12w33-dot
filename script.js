@@ -22,10 +22,10 @@ class Dog extends Animal {
         console.log("woof");
     }
 }
-const myCat = new Cat ("teom");
+const myCat = new Cat ("Siamese");
 myCat.makeSound();
 myCat.purr();
-const myDog = new Dog ("janu");
+const myDog = new Dog ("Golden Reteiever");
 myDog.makeSound();
 myDog.bark();
 
